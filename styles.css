@@ -1,0 +1,28 @@
+body {
+    background-color:darkseagreen;
+    color:ivory;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 10px;
+}
+
+p{
+    font-size: 50px;
+    margin: 10px;
+    color:ivory;
+}
+
+h1:hover {
+    color:aqua;
+    font-size:130px;
+    transition:3s;
+}
+
+p:hover {
+    color:aqua;
+    font-size:30px;
+    transition:2s;
+}
